@@ -25,5 +25,5 @@
 
 ## Demo
 
-<img src="https://github.com/RicardoChaseCo/medical-injector-app/blob/main/Screenshot%202023-03-24%20at%2001.37.28.png" alt="Image text" width="800">
+<img src="" alt="Image text" width="800">
 
