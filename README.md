@@ -15,6 +15,14 @@
 * The backend communicates with the database to perform the requested actions and returns the results to the frontend.
 * The frontend updates the displayed information based on the responses received from the backend.
 
+## Some Future Enhancement...
+
+* Device Management: Allow users to pair, manage, and unpair Bluetooth devices (battery status display and connection status)
+* Data Analysis: Provide users with visual representations of their injection data, such as graphs or charts, to help them understand trends, or patterns in their injection history
+* Notifications and Reminders: Remind users about upcoming injections or to notify them of missed injections
+* Doctor Collaboration: Enable users to share their injection data with their docters directly from the app
+* .....
+
 ## Demo
 
 <img src="https://github.com/RicardoChaseCo/med-injector/blob/main/Screenshot%202023-03-07%20at%2011.32.41.png" alt="Image text" width="800">
